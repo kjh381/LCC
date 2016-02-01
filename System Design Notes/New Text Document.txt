@@ -1,0 +1,15 @@
+git clone urlgoeshere
+make changes
+add files
+git commit -m "message"
+git push origin master
+
+git pull (grabs changes that have been made to repository since the last clone)
+
+git status
+git log
+
+git blame (shows last edit to each line of code)
+
+--pretty=oneline  (one command per line)
+--author=whoever (just changes by a specific author)
